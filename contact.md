@@ -1,6 +1,7 @@
 # Contact
 
-- Blog: http://www.williamghelfi.com/
-- LinkedIn: http://it.linkedin.com/in/williamghelfi/
-- GitHub: https://github.com/trumbitta
-- Twitter: https://twitter.com/trumbitta
+- Blog: http://italiansthoughts.blogspot.it/
+- LinkedIn: https://ie.linkedin.com/in/matteosclafani
+- GitHub: https://github.com/MatteoSclafani
+- Facebook: https://www.facebook.com/matteo.sclafani
+- Flickr: https://www.flickr.com/photos/iliveinsideofmyself/
