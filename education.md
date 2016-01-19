@@ -1,5 +1,5 @@
 # Education
 
-* Università degli Studi di Cagliari - Computer Science — 2001-2006 (not graduated)
-* Università degli Studi di Cagliari - Electronic Engineering — 1996-2001 (not graduated)
-* High School: Maturità Scientifica “Piano Nazionale Informatica” — 1991-1996
+* Dublin Business School - Higher Diploma in Science in Software Development - 2015-2016
+* University of Palermo - Computer Engineering — 2005-2015 
+* High School: Diploma in Science from Liceo Scientifico "E. Fermi" — 1999-2004
